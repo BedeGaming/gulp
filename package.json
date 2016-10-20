@@ -1,5 +1,5 @@
 {
-  "name": "gulp",
+  "name": "@bedegaming/gulp",
   "description": "The streaming build system",
   "version": "4.0.0-alpha.2",
   "homepage": "http://gulpjs.com",
